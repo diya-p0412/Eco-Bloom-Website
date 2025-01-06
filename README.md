@@ -8,7 +8,7 @@ Front-end:
 The Eco Bloom website's front-end is built using HTML, CSS, and JavaScript.
 
 Back-end:
-The Eco Bloom website's back-end utilizes a database (likely SQL) and web servers.
+The Eco Bloom website's back-end utilizes a database and web servers.
 
 Integrations:
 The website incorporates payment gateways and mapping services for enhanced functionality.
